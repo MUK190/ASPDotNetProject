@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellCome", "WellCome\WellCome.csproj", "{BF49E15F-5C57-42FC-B520-36E6F6797EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF49E15F-5C57-42FC-B520-36E6F6797EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF49E15F-5C57-42FC-B520-36E6F6797EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF49E15F-5C57-42FC-B520-36E6F6797EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF49E15F-5C57-42FC-B520-36E6F6797EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D13AAA92-6AA5-4B4E-8727-83A006C58CDA}
+	EndGlobalSection
+EndGlobal
